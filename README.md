@@ -1,4 +1,4 @@
-![QHACK](logl.png?raw=true "QHACK")
+![QHACK](logo.png?raw=true "QHACK")
 
 # [QHACK 2019](qhack.ai)
 
