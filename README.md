@@ -1,3 +1,5 @@
+![QHACK](logl.png?raw=true "QHACK")
+
 # [QHACK 2019](qhack.ai)
 
 A hackathon devoted to all things Quantum Machine Learning (QML). 
