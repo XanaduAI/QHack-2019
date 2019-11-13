@@ -16,7 +16,7 @@ Toronto, Ontario, Canada
 |--------------------------|----------------------------------------|----------------------------------|
 | Evening: Welcome social<br>(optional) | 8am<br>Breakfast & Registration | 9am<br>Hackathon reconvenes<br>(lunch provided) |
 |  | 9am<br>Presentations from invited speakers | |
-|  | 1pm<br>- Lunch<br>- Team formation<br>- Hackathon outline | 5pm<br>- Participant presentations<br>- Judging<br>- Winners announced<br>- Close and final networking |
+|  | 1pm<br>- Lunch<br>- Team formation<br>- Hackathon overview | 5pm<br>- Participant presentations<br>- Judging<br>- Winners announced<br>- Close and final networking |
 | | 2pm<br>Hackathon<br>(dinner provided) |  |
 | | 8pm<br>Evening social event (offsite) |  |
 
