@@ -16,7 +16,7 @@ Toronto, Ontario, Canada
 |--------------------------|----------------------------------------|----------------------------------|
 | Evening: Welcome social<br>(optional) | 8am<br>Breakfast & Registration | 9am<br>Hackathon reconvenes<br>(lunch provided) |
 |  | 9am<br>Presentations from invited speakers | |
-|  | 1pm<br>- Lunch<br>- Team formation<br>- Hackathon rules | 5pm<br>- Participant presentations<br>- Judging<br>- Winners announced<br>- Close and final networking |
+|  | 1pm<br>- Lunch<br>- Team formation<br>- Hackathon outline | 5pm<br>- Participant presentations<br>- Judging<br>- Winners announced<br>- Close and final networking |
 | | 2pm<br>Hackathon<br>(dinner provided) |  |
 | | 8pm<br>Evening social event (offsite) |  |
 
@@ -36,9 +36,9 @@ Resources:
 
 ### How do I form a team?
 
-Participants are encouraged to introduce themselves, discuss ideas, and begin to form up teams using the QHACK slack channel. We will also be having an (optional) social meetup the day before the hackathon begins. This is a great opportunity to meet people in person!
+Participants are encouraged to introduce themselves, discuss ideas, and begin to form up teams using the QHACK slack channel and ths GitHub repository. We will also be having an (optional) social meetup the day before the hackathon begins. This is a great opportunity to meet people in person!
 
-During the hackathon itself, we will have a dedicated period devoted to team forming. People will be able to introduce themselves, share what they can bring to a team, and pitch their ideas.
+Although it is encouraged, it is *not required* to form a team before the event. During the hackathon itself, we will have a dedicated period devoted to team forming. People will be able to introduce themselves, share what they can bring to a team, and pitch their ideas.
 
 ### What do I need to bring?
 
@@ -48,7 +48,7 @@ During the hackathon itself, we will have a dedicated period devoted to team for
 
 ### What software should I install?
 
-We hope to provide browser-based environments for hacking, but if you want to work on your own device, we recommend to install the following packages
+We hope to provide browser-based environments for hacking, but if you want to work locally on your own device, we recommend to install the following packages
 
 - Python 3.6 or later
 
