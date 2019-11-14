@@ -67,3 +67,7 @@ We hope to provide browser-based environments for hacking, but if you want to wo
 - pyQuil from Rigetti
 
   `pip install pyquil pennylane-forest`. To install the Forest SDK, see the instruction details provided by Rigetti.
+  
+- Microsoft QDK
+
+  To install the Microsoft SDK, see the instruction details provided by [Microsoft](https://docs.microsoft.com/en-us/quantum/install-guide/index?view=qsharp-preview).
