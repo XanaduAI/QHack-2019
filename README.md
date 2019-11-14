@@ -71,4 +71,4 @@ We hope to provide browser-based environments for hacking, but if you want to wo
   
 - Quantum Development Kit from Microsoft
 
-  To install the Microsoft QDK, see the instruction details provided by [Microsoft](https://docs.microsoft.com/en-us/quantum/install-guide/index?view=qsharp-preview).
+  `pip install pennylane-qsharp`. To install the Microsoft QDK, see the instruction details provided by [Microsoft](https://docs.microsoft.com/en-us/quantum/install-guide/index?view=qsharp-preview).
