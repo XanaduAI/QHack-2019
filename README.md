@@ -33,6 +33,7 @@ Resources:
 - [PennyLane](https://pennylane.readthedocs.io/)
 - [Qiskit](https://qiskit.org/)
 - [Forest](https://www.rigetti.com/forest)
+- [Quantum Development Kit](https://www.microsoft.com/en-ca/quantum/development-kit)
 
 ### How do I form a team?
 
