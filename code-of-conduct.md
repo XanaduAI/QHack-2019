@@ -11,9 +11,9 @@ safe environment for everybody.
 If you have witnessed or experienced any transgressions of this Code of Conduct
 at QHACK 2019 please get in contact with us.
 
-  Lara Graham
-  lara@xanadu.ai
-  +1 416 304 9629
+> Lara Graham
+> lara@xanadu.ai
+> +1 416 304 9629
 
 ## The Quick Version
 
