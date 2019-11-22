@@ -51,7 +51,7 @@ Although it is encouraged, it is *not required* to form a team before the event.
 
 We hope to provide browser-based environments for hacking, but if you want to work locally on your own device, we recommend to install the following packages
 
-- Python 3.6 or later
+- Python 3.6 or Python 3.7
 
   If you currently do not have Python 3 installed, we recommend Anaconda for Python 3, a distributed version of Python packaged for scientific computation.
   
