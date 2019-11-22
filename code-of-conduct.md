@@ -84,7 +84,7 @@ the hackathon at the discretion of the hackathon organisers.
 
 * If a participant engages in harassing behavior, the hackathon organisers may take any
   action they deem appropriate. This includes warning the offender, expulsion from the
-  hackathon with no refund (if applicable), or reporting their behaviour to local law enforcement.
+  hackathon, or reporting their behaviour to local law enforcement.
 
 * We expect participants to follow these rules at hackathon and workshop venues and
   hackathon-related social events.
